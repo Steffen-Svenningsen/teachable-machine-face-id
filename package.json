@@ -13,6 +13,9 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "@teachablemachine/image": "^0.8.5",
+    "reset-css": "^5.0.2",
+    "sass": "^1.71.1",
     "vue": "^3.4.15",
     "vue-router": "^4.2.5"
   },

@@ -1,5 +1,5 @@
 <template>
   <main>
-    Home page
+    <h1>Face Recognition</h1>
   </main>
 </template>

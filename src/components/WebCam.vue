@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 import * as tmImage from '@teachablemachine/image';
 import { ref } from "vue";
 

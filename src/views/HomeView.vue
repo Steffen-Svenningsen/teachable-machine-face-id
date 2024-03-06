@@ -6,7 +6,7 @@ import WebCam from '@/components/WebCam.vue';
 <template>
   <main>
     <h1>Person Recognition</h1>
-    <p>By pressing start You'll be able to turn on your webcam/camera to detect weither there's a person in the picture through <a target="_blank" href="https://teachablemachine.withgoogle.com/">Machine Learning Models</a>.</p>
+    <p>By pressing start, you'll be able to turn on your webcam/camera to detect whether there's a person in the picture through <a target="_blank" href="https://teachablemachine.withgoogle.com/">Machine Learning Models</a>.</p>
     <WebCam />
   </main>
 </template>
